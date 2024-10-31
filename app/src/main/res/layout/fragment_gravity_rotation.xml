@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:id="@+id/gravity_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gravity: 0 m/s²"
+        android:fontFamily="casual"
+        android:layout_marginTop="16dp"
+        android:textSize="28sp"
+        android:layout_marginLeft="16dp"/>
+
+    <TextView
+        android:id="@+id/rotation_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rotation: 0°"
+        android:fontFamily="casual"
+        android:textSize="30sp"
+        android:layout_marginLeft="16dp"/>
+
+    <com.jjoe64.graphview.GraphView
+        android:id="@+id/graph"
+        android:layout_width="389dp"
+        android:layout_height="375dp"
+        android:layout_marginTop="16dp" />
+</LinearLayout>
