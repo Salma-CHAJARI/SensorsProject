@@ -80,6 +80,16 @@ Assurez-vous que les permissions suivantes sont définies :
 
 Les contributions sont les bienvenues ! Veuillez suivre les [directives de contribution](CONTRIBUTING.md) si vous souhaitez participer à l'amélioration de SensorHub.
 
+
+
+
+## Vidéo démonstratif
+
+
+https://github.com/user-attachments/assets/58066c14-2bcf-46d8-beb9-687b614f5f5e
+
+
 ## Licence
 
 Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
+
