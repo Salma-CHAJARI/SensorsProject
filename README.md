@@ -76,6 +76,15 @@ Assurez-vous que les permissions suivantes sont définies :
 - **Capteurs** : Pour accéder aux capteurs de mouvement, d’environnement et de position.
 - **Notifications** : Requises pour déclencher des alertes en fonction des seuils de capteurs.
 
+## Auteur
+
+- *CHAJARI Salma* - Étudiante à l'Université Chouaib Doukkali, Ecole Nationale des Sciences Appliquées d'El Jadida.
+
+## Encadré par
+
+- *Pr. M. LACHGAR*
+
+
 
 
 ## Vidéo démonstratif
