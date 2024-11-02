@@ -76,11 +76,6 @@ Assurez-vous que les permissions suivantes sont définies :
 - **Capteurs** : Pour accéder aux capteurs de mouvement, d’environnement et de position.
 - **Notifications** : Requises pour déclencher des alertes en fonction des seuils de capteurs.
 
-## Contribution
-
-Les contributions sont les bienvenues ! Veuillez suivre les [directives de contribution](CONTRIBUTING.md) si vous souhaitez participer à l'amélioration de SensorHub.
-
-
 
 
 ## Vidéo démonstratif
