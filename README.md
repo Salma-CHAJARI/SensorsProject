@@ -1,6 +1,6 @@
-# SensorHub
+# SensorIN
 
-SensorHub est une application Android permettant aux utilisateurs de visualiser et d’interagir avec les données des capteurs disponibles sur leur appareil. L’application fournit un affichage en temps réel des données, une visualisation graphique et des alertes pour divers capteurs environnementaux et de position, ce qui en fait un outil idéal pour explorer les données des capteurs.
+SensorIN est une application Android permettant aux utilisateurs de visualiser et d’interagir avec les données des capteurs disponibles sur leur appareil. L’application fournit un affichage en temps réel des données, une visualisation graphique et des alertes pour divers capteurs environnementaux et de position, ce qui en fait un outil idéal pour explorer les données des capteurs.
 
 ## Fonctionnalités
 
