@@ -93,7 +93,4 @@ Assurez-vous que les permissions suivantes sont définies :
 https://github.com/user-attachments/assets/58066c14-2bcf-46d8-beb9-687b614f5f5e
 
 
-## Licence
-
-Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
